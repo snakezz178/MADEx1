@@ -111,7 +111,5 @@ class MainActivity : AppCompatActivity() {
         }
     }
 
-    private fun showToast(s: String) {
 
-    }
 }
